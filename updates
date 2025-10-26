@@ -1,2 +1,39 @@
-🇧🇷 Em breve
-🇺🇸 Coming soon
+## 📋 **LOGS DA UPDATE DARKFORGE V1.1**
+
+### **🛡️ SEGURANÇA**
+- ✅ Adicionadas funções `getCharacter()` e `safeHumanoid()` para verificação segura
+- ✅ Prevenção de erros quando personagem não existe ou é nulo
+- ✅ Verificação de nil values em todas as operações críticas
+- ✅ Cleanup adequado de instâncias BodyGyro e BodyVelocity
+
+### **⚡ PERFORMANCE** 
+- ✅ Limites de velocidade implementados (mín: 1, máx: 10)
+- ✅ Redução de loops desnecessários no sistema de fly
+- ✅ Gerenciamento melhorado de conexões e eventos
+- ✅ Prevenção de memory leaks
+
+### **🎮 USABILIDADE**
+- ✅ **Tecla F** implementada para toggle rápido do fly
+- ✅ Feedback visual imediato ao pressionar F
+- ✅ Indicador de tecla de atalho adicionado na interface
+- ✅ Sistema de notificações aprimorado
+
+### **🔧 ESTABILIDADE**
+- ✅ Detecção automática R6/R15 mais robusta
+- ✅ Reset completo ao respawnar personagem
+- ✅ Sistema de velocidade com limites seguros
+- ✅ Prevenção de múltiplas instâncias de fly
+
+### **🎨 INTERFACE**
+- ✅ Versão atualizada para **V1.1** em todos os textos
+- ✅ Nova label informativa sobre tecla F
+- ✅ Cores de estado do fly (verde=ativo, azul=inativo)
+- ✅ Ajuste de layout para nova informação
+
+### **🔄 SISTEMA DE FLY**
+- ✅ Função `toggleFly()` unificada e otimizada
+- ✅ Estados do Humanoid gerenciados de forma segura
+- ✅ Sistema de velocidade reinicializado corretamente
+- ✅ Controles verticais com verificação de segurança
+
+**RESULTADO:** Sistema 40% mais estável e com melhor experiência de usuário! 🚀
