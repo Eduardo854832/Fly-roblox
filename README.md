@@ -3,6 +3,7 @@ By DarkForge
 ```
 https://discord.gg/Cfm5ufAVUc
 ```
+1.2
 ```
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Eduardo854832/Fly-roblox/refs/heads/main/Fly"))()
 ```
