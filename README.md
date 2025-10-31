@@ -1,7 +1,7 @@
 # Fly-roblox
 By DarkForge 
 ```
-https://discord.gg/Cfm5ufAVUc
+https://discord.gg/q3un9ZAE84
 ```
 1.2
 ```
