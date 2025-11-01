@@ -1,37 +1,21 @@
-🚀 DARKFORGE HUB V1.2 - RESUMO DA ATUALIZAÇÃO
+# DarkForge Fly System V2.0
 
-✨ NOVIDADES PRINCIPAIS:
-•Tela de carregamento FULLSCREEN imersiva
-•Compatibilidade total com MOBILE (iOS/Android)
-•Velocidade máxima aumentada para 20 (+100%)
-•Novo tema ROXO moderno e dark
-
-⚡ PERFORMANCE:
-•Carregamento 30% mais rápido
-•Consumo de memória reduzido
-•Otimização para todos os dispositivos
-
-📱 COMPATIBILIDADE:
-✅PC (Windows/Mac)
-✅Mobile (iOS/Android) 
-✅Tablets
-✅Todos os jogos Roblox
-
-🐛 CORREÇÕES:
-•Problemas de character não encontrado
-•Memory leaks no sistema de fly
-•Interface mobile responsiva
-•Erros em respawn de personagem
-
-🎯 CONTROLES:
-•Tecla F: Ativar/Desativar Fly
-•Botões UP/DOWN: Controle de altura
-•+/- : Ajuste de velocidade (1-20)
-•Interface arrastável e minimizável
-
-🔒 SEGURANÇA:
-•Sistema anti-detection reforçado
-•Verificação de segurança aprimorada
-•Cleanup automático de objetos
-
-A V1.2 traz uma experiência universal e imersiva, funcionando perfeitamente em qualquer dispositivo enquanto mantém performance máxima e estabilidade! 🚀
+```
+[*] Fixed Auto Discord Copy System
+[*] Fixed Character Detection & Safety
+[*] Fixed ZIndexBehavior Errors
+[*] Improved Fly Performance & Stability
+[*] Improved UI Animations & Smoothness
+[*] Added Real-time Status Feedback
+[*] Added Multiple Copy Fallback Methods
+[*] Enhanced Safety Systems
+[*] Improved User Experience
+[*] Fixed Flight Activation/Deactivation
+[*] Improved Speed Control System
+[*] Added Auto-Reset on Respawn
+[*] Enhanced Visual Effects
+[*] Fixed Mobile Compatibility
+[*] Improved Notification System
+[*] Added Error Recovery
+[*] Enhanced Security Features
+```A V1.2 traz uma experiência universal e imersiva, funcionando perfeitamente em qualquer dispositivo enquanto mantém performance máxima e estabilidade! 🚀
